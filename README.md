@@ -2,13 +2,11 @@
 
 #### Have you agreed to many people?
 #### Here is simple easy to implement your idea.
-
-<br/><br/>
+<br/>
 
 ### ✔ First, find famous github account and then click followers.
 ### ✔ Second, now, you can see his follwers, and if you didn't follow each person, button's label can be "Follow".
-
-<br/> <br/>
+<br/>
 Otherwise, displaying "Unfollow".
 So your goal is to click the button of its label "Follow".
 
