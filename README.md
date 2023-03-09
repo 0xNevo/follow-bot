@@ -1,4 +1,4 @@
-### <h1>Github bot</h1>
+### <h1>Github Bot For Following</h1>
 
 #### Have you agreed to many people?
 #### Here is simple easy to implement your idea.
