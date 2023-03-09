@@ -60,5 +60,5 @@ So your goal is to click the button of its label "Follow".
   </div>
   <br/>
 
-  ### Fifth
+  ### Last Step:
    Press Enter key.
