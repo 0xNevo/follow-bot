@@ -77,3 +77,19 @@ So your goal is to click the button of its label "Follow".
   ### Last Step:
    
    Press Enter key.
+   
+   
+   
+### <h1>LinkedIn Bot For Following</h1>
+
+```
+let elements = document.getElementsByClassName("artdeco-button artdeco-button--2 artdeco-button--full artdeco-button--secondary ember-view full-width mt2");
+
+for (let i = 0; i < elements.length; i++) {
+  console.log( elements[i].querySelector('.artdeco-button__text').textContent.trim() )
+  if( elements[i].querySelector('.artdeco-button__text').textContent.trim() === "Follow" ){
+    elements[i].click()
+    console.log( 'Here' );
+  }
+}
+```
